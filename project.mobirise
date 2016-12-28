@@ -175,7 +175,7 @@
               "size": 250
             }
           },
-          "title": "IRS Problem Solving With A Hometown Touch",
+          "title": "Tax Preparation With A Hometown Touch",
           "text": "We are blessed to have such an awesome office staff. We have over 40 years combined experience and our goal is to \"Do it right the first time!\" We specialize in all types of tax returns from the very basic to corporations. Having problems with the IRS? We are just a phone call away! We now offer IRS Problem Solving!! Come see us for all your tax and problem solving needs!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -375,7 +375,7 @@
           "title": "HOW CAN WE HELP YOU?",
           "subtitle": "Fill out the form below and we'll contact you back. Thank you for the opportunity to serve you.",
           "form": {
-            "action": "mikeodomdesigns@gmail.com",
+            "action": "thetaxdoctor2012@yahoo.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
