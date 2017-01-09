@@ -375,7 +375,7 @@
           "title": "HOW CAN WE HELP YOU?",
           "subtitle": "Fill out the form below and we'll contact you back. Thank you for the opportunity to serve you.",
           "form": {
-            "action": "thetaxdoctor.us@google.com",
+            "action": "thetaxdoctor.us@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form! We'll be in touch."
             },
@@ -499,7 +499,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>77 North Main Str.<br>Baxley, GA<br>31513",
-          "text2": "<strong>Contacts</strong><br>\nEmail: thetaxdoctor2012@yahoo.com<br>\nPhone: 912-366-4829<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: thetaxdoctor.us@gmail.com<br>\nPhone: 912-366-4829<br>",
           "text3": "<strong>Copyright (c)</strong><br>2016 The Tax Doctors"
         }
       ]
