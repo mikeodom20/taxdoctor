@@ -426,9 +426,9 @@
                         if ((element_bottom_position >= window_top_position) &&
                             (element_top_position <= window_bottom_position) &&
                             ($element.hasClass('hidden'))) {
-                            $element.removeClass('hidden').addClass('fadeInUp')
+                            $element.removeClass('hidden').addClass('fadeIn')
                             .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
-                                $element.removeClass('animated fadeInUp');
+                                $element.removeClass('animated fadeIn');
                             });
                         }
                     });
